@@ -1,0 +1,6 @@
+Credentials cache: API:5F47C2D7-DFCD-4BFB-BBD6-D69FE6201551
+        Principal: maba@42LYON.FR
+
+		  Issued                Expires               Principal
+		  Oct  5 19:00:18 2020  Oct  6 19:00:18 2020  krbtgt/42LYON.FR@42LYON.FR
+		  Oct  5 19:00:19 2020  Oct  6 19:00:18 2020  HTTP/san-ssd.42lyon.fr@42LYON.FR
